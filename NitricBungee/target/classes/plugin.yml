@@ -1,0 +1,25 @@
+name: Nitric
+main: me.Asylx.Main
+version: 1.0
+author: Asylx
+
+commands:
+  server:
+    description: Teleports to another server
+  discord:
+    description: Discord command
+  find:
+    description: Find a player
+  hub:
+    description: hub and stuff
+  store:
+    description: Store command
+  s:
+    description: Staffchat.
+  restart:
+    description: Restart for bungeecord
+  creep:
+    description: KrabApples command
+  hi:
+    description: IanTheFirst command
+
